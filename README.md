@@ -10,7 +10,7 @@ Guides organizations through evaluating sustainability initiatives (solar PV, en
 
 | Gate | Purpose | Outcome |
 |------|---------|---------|
-| **Gate 0** | Strategic Screening — 5 criteria evaluation | ADOPT / RE-TEST / REJECT |
+| **Gate 0** | Strategic Screening — 5 criteria evaluation | ADOPT / TEST / REJECT |
 | **Gate 1** | Business Case — NPV, payback, IRR analysis | ADOPT / RE-TEST / REJECT |
 | **Gate 2** | Commercial Lock-In — Secure 4 enablers | All Locked / Pending |
 | **Gate 3** | Delivery & M&V — 5-phase execution tracking | Complete / In Progress |
